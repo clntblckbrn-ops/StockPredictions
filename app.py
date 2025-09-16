@@ -1,5 +1,3 @@
-!pip install gradio yfinance pandas scikit-learn numpy --quiet
-
 import gradio as gr
 import yfinance as yf
 import pandas as pd
